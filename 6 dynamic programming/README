@@ -1,0 +1,6 @@
+Assignment: given n1 items of size s1, n2 items of size s2, n3 items of size s3, and an infinite supply of bins(boxes) of capacity C
+			write a non-recursive dynamic programming program to find the minimum number of bins needed to pack all items.
+			first use a recursive solution, then use that to develop the non-recursive dynamic programming solution.
+
+BinPacking is the recursive solution
+BinPacking1 is the non-recursive solution

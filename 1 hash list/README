@@ -1,0 +1,10 @@
+Assignment: implement a hash table and take care of collisions using separate chaining.
+
+Given:
+	Map.java
+	Entry.java
+	MyTestMap.java
+	
+Implement:
+	HashListEntry.java: HashListEntry, getKey, and getValue
+	HashListMap.java: insert, delete, findEntry

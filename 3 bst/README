@@ -1,0 +1,6 @@
+assignment: implement a method to find the successor of a given entry node
+
+given:
+	BSTEntry.java
+	TestBST.java
+	BST.java all except succ(BSTEntry p)

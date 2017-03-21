@@ -1,0 +1,8 @@
+Assignment: implement the skip list structure using link list elements
+Each element has up, down, left, right links.
+
+Given: 
+	TestSkipList.java
+	SkipList.java: constructor and findEntry
+
+Implement: get, put, remove
